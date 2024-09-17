@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-I have over 7 years of experience in Java development, and I've worked on a wide variety of projects from small utilities to large-scale enterprise applications.
+## Who I am ? 
+I'm a developer with over 7 years of experience mainly in Java (tho I'm curently focusing a little more on Python), I've worked for a vast array of client from start-up, to TSX 60 compagnies in Europe and North America.
