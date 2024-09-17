@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tech About
+title: Tech
 permalink: /stack/
 ---
 
