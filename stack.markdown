@@ -1,5 +1,5 @@
 ---
-layout: stack
+layout: page
 title: Tech stack
 permalink: /stack/
 ---
