@@ -19,8 +19,8 @@ permalink: /stack/
 
 ### Databases
 - **PostgreSQL** - open-source object-relational database.
-- **JanusGraph** - Graph db.
+- **JanusGraph** - Graph DB.
 
 ### DevOps & CI/CD
-- **Github Actions** - because I like the KISS principle applied to my CI:CD.
+- **Github Actions** - because I like the KISS principle applied to my CI/CD.
 - <i class="fab fa-docker"></i> **Kubernetes** - Container orchestration platform.
